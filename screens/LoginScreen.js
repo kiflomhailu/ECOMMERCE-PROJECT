@@ -14,7 +14,7 @@ const LoginScreen = () => {
         <SafeAreaView style={{flex:1, backgroundColor:"white", alignItems:"center"} }>
         <View>
         <Image
-          style={{ width: 150, height: 100 }}
+          style={{ width: 150, height: 100,marginTop:40, }}
           source={{
             uri: "https://assets.stickpng.com/thumbs/6160562276000b00045a7d97.png",
           }}
